@@ -25,4 +25,4 @@ jobs:
 
     - name: Run ST Job Cancel History
       run: |
-        python job_cancel_history.py
+        python job-cancel-history.py
